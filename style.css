@@ -1,0 +1,30 @@
+#score_update{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    float: left;
+}
+#timer{
+    float: right;
+    padding-right: 5px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+body{
+    background-image:"background.png";
+}
+h1{
+    background-color: cornsilk;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: black;
+}
+#sketch_to_be_drawn{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: red;
+}
